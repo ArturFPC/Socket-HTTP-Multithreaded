@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1661095382 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/main.cpp
+	<ServerWeb.h>
+
+1661091518 /home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerWeb.h
+	<ServerSocket.h>
+	<ServerFile.h>
+	<iostream>
+	<string.h>
+	<fstream>
+	<time.h>
+	<sstream>
+	<iomanip>
+	<filesystem>
+
+1661092505 /home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerSocket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1661093477 /home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerFile.h
+	<string.h>
+	<ServerSocket.h>
+	<iostream>
+	<fstream>
+	<string>
+	<filesystem>
+	<unistd.h>
+
+1661092598 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerSocket.cpp
+	<ServerSocket.h>
+
+1661094238 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerFile.cpp
+	<ServerFile.h>
+
+1661094708 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerWeb.cpp
+	<ServerWeb.h>
+
+1661105682 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerFile.cpp
+	<ServerFile.h>
+
+1661106772 /home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerFile.h
+	<string.h>
+	<ServerSocket.h>
+	<iostream>
+	<fstream>
+	<filesystem>
+	<unistd.h>
+
+1661106864 /home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerSocket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1661092598 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerSocket.cpp
+	<ServerSocket.h>
+
+1661106555 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/main.cpp
+	<ServerWeb.h>
+
+1661107155 /home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerWeb.h
+	<ServerSocket.h>
+	<ServerFile.h>
+	<iostream>
+	<time.h>
+	<sstream>
+
+1661106450 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerWeb.cpp
+	<ServerWeb.h>
+
+1661124844 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/main.cpp
+	<ServerWeb.h>
+
+1661122762 /home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerWeb.h
+	<ServerSocket.h>
+	<ServerFile.h>
+	<iostream>
+	<time.h>
+	<sstream>
+	<thread>
+
+1661106864 /home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerSocket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1661106772 /home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerFile.h
+	<string.h>
+	<ServerSocket.h>
+	<iostream>
+	<fstream>
+	<filesystem>
+	<unistd.h>
+
+1661105682 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerFile.cpp
+	<ServerFile.h>
+
+1661092598 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerSocket.cpp
+	<ServerSocket.h>
+
+1661126067 source:/home/doc/Documentos/Escola/Redes de Computadores/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerWeb.cpp
+	<ServerWeb.h>
+
+1661124844 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/main.cpp
+	<ServerWeb.h>
+
+1661122762 /home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerWeb.h
+	<ServerSocket.h>
+	<ServerFile.h>
+	<iostream>
+	<time.h>
+	<sstream>
+	<thread>
+
+1661106864 /home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerSocket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1661106772 /home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/include/ServerFile.h
+	<string.h>
+	<ServerSocket.h>
+	<iostream>
+	<fstream>
+	<filesystem>
+	<unistd.h>
+
+1661105682 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerFile.cpp
+	<ServerFile.h>
+
+1661092598 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerSocket.cpp
+	<ServerSocket.h>
+
+1661124521 source:/home/artur/codeblocks_programs/deivisonoliveira-arturfrancisco-johnattansilva/deivisonoliveira-arturfrancisco-johnattansilva/src/ServerWeb.cpp
+	<ServerWeb.h>
+
